@@ -1706,9 +1706,6 @@ Pre-Footer and pre-footer elements
 	color: #fff;
 	font-size: 12px;
 	padding: 15px 0;
-	position: absolute;
-	bottom: 0;
-	width: 100%;
 }
 .footer-light {
 	background: #F9F9F9;
