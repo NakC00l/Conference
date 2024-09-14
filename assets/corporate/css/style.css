@@ -457,7 +457,7 @@ body.page-header-fixed {
   font-size: 23px;
   font-weight: 400;
 
-  margin-right: 67px;
+  margin-right: 1px;
   padding-top: 22px;
   padding-bottom: 22px;
 }
@@ -485,7 +485,7 @@ body.page-header-fixed {
 
 /* Navigation */
 .header-navigation {
-	font: 16px Georgia, "Times New Roman", Times, serif;
+	font: 16px 'Open Sans', sans-serif;
 	margin: 0 10px 0 0;
 	padding: 0;
 	float: left;
