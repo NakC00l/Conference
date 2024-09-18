@@ -296,8 +296,8 @@
 /* Carousel Positions */
 .carousel-slider .carousel-position-l {
     position: absolute;
-    top: 20%;
-    left: auto;
+    top: 17%;
+    left: 7%;
 	text-align: center;
 }
 .carousel-slider .carousel-position-r {
