@@ -2065,6 +2065,13 @@ Demo Utils
   /* increased font size for icon-large */
   width: 1.5625em;
 }
+.service-box p, .service-box .service-box-heading em, .service-box .service-box-heading span {
+	display: block;
+	text-align: center;
+}
+.service-box .service-box-heading em {
+	margin-bottom: 10px;
+}
 
 /* Blockquote Box */
 .quote-v1 {
