@@ -2046,6 +2046,10 @@ Demo Utils
   color: #35aa47;
   border:1px solid #35aa47;
 }
+.service-box .service-box-heading i.orange {
+	color: #e18604;
+	border:1px solid #e18604;
+  }
 .service-box .service-box-heading span {
   color: #444;
   font-size: 21px;
